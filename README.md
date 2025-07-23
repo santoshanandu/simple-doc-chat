@@ -15,7 +15,7 @@ A **Next.js** application that allows users to ask questions about documents sto
 
 1. **Google Drive Integration**
    - Fetches documents from specified Google Drive folders
-   - Supports PDF, plain text, and Google Docs formats
+   - Supports  plain text formats
 
 2. **Document Processing**
    - Chunks documents into ~1000-character segments (with 200-character overlap)
@@ -39,7 +39,7 @@ A **Next.js** application that allows users to ask questions about documents sto
 
 1. **Authentication**: Google Drive service account credentials
 2. **Document Retrieval**: Downloads files from the specified Drive folder
-3. **Text Extraction**: Parses text from PDFs, Docs, and plain text files
+3. **Text Extraction**: Parses the plain text files
 4. **Chunking**: Splits text into overlapping chunks
 5. **Embedding Generation**: Generates embeddings for each chunk
 6. **Storage**: Saves embeddings in Qdrant vector DB
@@ -191,4 +191,4 @@ document-QA/
 
 ---
 
-
+[Demo video]()
