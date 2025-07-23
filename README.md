@@ -191,5 +191,5 @@ document-QA/
 
 ---
 
-[Demo video](https://drive.google.com/file/d/1EuPvHr1JxwL434gCLDKQVmM2qF5sOahs/view?usp=sharing)
-[Functinality document](https://github.com/santoshanandu/simple-doc-chat/blob/main/functionality_doc.md)
+- [Demo video](https://drive.google.com/file/d/1EuPvHr1JxwL434gCLDKQVmM2qF5sOahs/view?usp=sharing)
+- [Functinality document](https://github.com/santoshanandu/simple-doc-chat/blob/main/functionality_doc.md)
